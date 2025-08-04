@@ -1,0 +1,9 @@
+awswrangler==3.12.1
+black==25.1.0
+boto3==1.38.46
+Faker==37.4.2
+flake8==7.3.0
+isort==6.0.1
+pandas==2.3.0
+pylint==3.3.7
+pendulum==3.1.0

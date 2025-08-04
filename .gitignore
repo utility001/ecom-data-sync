@@ -1,0 +1,11 @@
+*.ipynb
+.venv
+*.env
+*.ipynb
+*/logs/
+*/plugins/
+*/config/
+*.terraform*
+**/__pycache__/
+*.pyc
+*.pyc 
